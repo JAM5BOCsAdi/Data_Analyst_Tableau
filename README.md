@@ -1,8 +1,29 @@
-# Data Analyst Tableau Projects
+<h1>Data Analyst Tableau Projects</h1>
 
-This is the Tableau Public Profile, where you can see all the projects, that i am doing or did before:
+<p>This is the Tableau Public Profile, where you can see all the projects, that i am doing or did before:</p>
 
-[Tableau Public Profile](https://public.tableau.com/app/profile/adam.horvath6040/vizzes)
+<p>Tableau Public Profile: <a href="https://public.tableau.com/app/profile/adam.horvath6040/vizzes">Click here</a></p>
 
-I am continuously learning new things to be better.
+<p>I am continuously learning new things to be better.</p>
 
+| | |
+|:-------------------------:|:-------------------------:|
+|<img height="400 px" src=""> | <img height="400 px" src=""> |
+|<img height="400 px" src=""> | <img height="400 px" src=""> |
+|<img height="400 px" src=""> | <img height="400 px" src=""> |
+
+<!--
+| | | | |
+|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
+|<img height="400 px" src=""> | <img height="400 px" src=""> | <img height="400 px" src=""> | <img height="400 px" src=""> | 
+|<img height="400 px" src=""> | <img height="400 px" src=""> | <img height="400 px" src=""> | <img height="400 px" src=""> |
+|<img height="400 px" src=""> | <img height="400 px" src=""> | <img height="400 px" src=""> | <img height="400 px" src=""> |
+-->
+
+<!--
+| | |
+|:-------------------------:|:-------------------------:|
+|<img height="400 px" src=""> | <img height="400 px" src=""> |
+|<img height="400 px" src=""> | <img height="400 px" src=""> |
+|<img height="400 px" src=""> | <img height="400 px" src=""> |
+-->
